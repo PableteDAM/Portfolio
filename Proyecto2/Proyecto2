@@ -1,0 +1,235 @@
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Kiranico MH:World</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-dark text-white">
+    <div class="container-fluid">
+        <div class="row mb-6">
+            <!-- Menú lateral -->
+            <div class="col-md-3 col-lg-2 bg-black p-3 min-vh-100">
+                <h4 class="text-white">KIRANICO / MH:WORLD</h4>
+                <ul class="nav flex-column">
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/monsters">Monstruos <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/quests">Misión <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/items">Objetos <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons">Armas <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/armorseries">Armadura <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/skilltrees">Habilidades <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/decorations">Adornos <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/catseries">Equipo de camarada <img class="h-25 float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/melodies">Efectos de melodías <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"> </a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/kinsects">Informacion de kinsecto <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/catskills">Habilidades de menu <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/foods">Ingredientes <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/crafting">Lista de formulas <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/safari">Comitiva de buscatrufos <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/melder">Maxifusionador <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/provisions">Provisiones <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/specialtools">Herram.Especializadas <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/deliveries">Entregas <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/bounties">Submisiones <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/pendants">Colgantes <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                </ul>
+            </div>
+            <!-- Menú lateral -->
+
+            <!-- Contenido principal -->
+            <main class="col-md-9 col-lg-10 p-3">
+                <div class=" container-fluid justify-content-between align-items-center mb-3">
+                    <h2>Monster Hunter: World</h2>                   
+                    <input type="text" class="form-control w-50 bg-secondary text-white" placeholder="Buscar en la base de datos...">
+                </div>
+            <!-- Contenido principal -->
+
+                <!--CARROUSEL-->
+                <div id="carouselExampleCaptions" class="carousel slide">
+                    <div class="carousel-indicators">
+                      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    </div>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img src="img/images.jpg" class="d-block h-25" alt="Guia">
+                        <div class="carousel-caption d-none d-md-block">
+                        </div>
+                      </div>
+                      <div class="carousel-item">
+                        <img src="img/descarga.jpg" class="d-block h-25" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                        </div>
+                      </div>
+                      <div class="carousel-item">
+                        <img src="img/ice.jpg" class="d-block h-25" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                        </div>
+                      </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+                <!--CARROUSEL-->
+
+                
+                <!-- Sección de monstruos -->
+                <h4>Monstruos</h4>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card bg-dark text-white border-light">
+                            <div>                             
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em050_ID.png" alt="Alatreon" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/ErdcV/alatreon" class="text-white card-text">Alatreon</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em100_ID.png" alt="Anjanath" width="60">
+                                <a href="https://mhworld.kiranico.com/es/monsters/ZqptN/anjanath"  class=" text-white card-text">Anjanath</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em100_01_ID.png" alt="Anjanath Fulgúreo" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/zJaFg/anjanath-fulgureo"  class=" text-white card-text">Anjanath Fulgúreo</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em123_ID.png" alt="Banbaro" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/6dJI8/banbaro"  class="  text-white card-text">Banbaro</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em042_ID.png" alt="Barioth" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/4k2UP/barioth"  class="  text-white card-text">Barioth</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em042_05_ID.png" alt="Barioth Cynodon" width="64"> 
+                                <a href="https://mhworld.kiranico.com/es/monsters/BaZUz/barioth-cynodon"  class="  text-white card-text">Barioth Cynodon</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em044_ID.png" alt="Barroth" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/Z9btN/barroth"  class="  text-white card-text">Barroth</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em118_ID.png" alt="Bazelgeuse" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/Xe7fm/bazelgeuse"  class="  text-white card-text">Balzegeuse</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em118_05_ID.png" alt="Bazelgeuse Magma" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/6dkhX/bazelgeuse-magma"  class="  text-white card-text">Balzegeuse Magma</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em063_ID.png" alt="Brachydios" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/qpVH8/brachydios"  class="  text-white card-text">Brachydios</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em063_05_ID.png" alt="Brachydios Colérico" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/JoYHZ/brachydios-colerico"  class="  text-white card-text">Brachydios Colerico</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em121_ID.png" alt="Bégimo" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/yA8Ub/begimo"  class="  text-white card-text">Bégimo</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em050_ID.png" alt="Alatreon" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/ErdcV/alatreon" class="text-white card-text">Alatreon</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em100_ID.png" alt="Anjanath" width="60">
+                                <a href="https://mhworld.kiranico.com/es/monsters/ZqptN/anjanath"  class=" text-white card-text">Anjanath</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em100_01_ID.png" alt="Anjanath Fulgúreo" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/zJaFg/anjanath-fulgureo"  class=" text-white card-text">Anjanath Fulgúreo</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em123_ID.png" alt="Banbaro" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/6dJI8/banbaro"  class="  text-white card-text">Banbaro</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em042_ID.png" alt="Barioth" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/4k2UP/barioth"  class="  text-white card-text">Barioth</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em042_05_ID.png" alt="Barioth Cynodon" width="64"> 
+                                <a href="https://mhworld.kiranico.com/es/monsters/BaZUz/barioth-cynodon"  class="  text-white card-text">Barioth Cynodon</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em044_ID.png" alt="Barroth" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/Z9btN/barroth"  class="  text-white card-text">Barroth</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em118_ID.png" alt="Bazelgeuse" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/Xe7fm/bazelgeuse"  class="  text-white card-text">Balzegeuse</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em118_05_ID.png" alt="Bazelgeuse Magma" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/6dkhX/bazelgeuse-magma"  class="  text-white card-text">Balzegeuse Magma</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em063_ID.png" alt="Brachydios" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/qpVH8/brachydios"  class="  text-white card-text">Brachydios</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em063_05_ID.png" alt="Brachydios Colérico" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/JoYHZ/brachydios-colerico"  class="  text-white card-text">Brachydios Colerico</a>
+                                <img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em121_ID.png" alt="Bégimo" width="64">
+                                <a href="https://mhworld.kiranico.com/es/monsters/yA8Ub/begimo"  class="  text-white card-text">Bégimo</a>
+                                
+                            </div>                           
+                        </div>
+                    </div>
+                    <!-- Sección de monstruos -->
+
+                    <!-- Sección de MISIONES -->
+                     
+                    <div class="col-md-5">
+                        <div class="container">                            
+                            <div class="row mb-4">                                
+                                <div class="card bg-dark text-white border-light">
+                                    <div class="text-center">
+                                        <p class="card-text">MISIONES</p>
+                                        <p>★1 ★2 ★3 ★4 ★5</p>
+                                        <p>★6 ★7 ★8 ★9 M★1</p>
+                                        <p> M★2 M★3 M★4 M★5 M★6</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                  
+                    <!-- Sección de MISIONES -->
+
+                     <!-- Sección de ARMAS -->                   
+                       <div class="container">                                                
+                           <div class="row mb-4 ">                                     
+                               <div class="col">                                
+                                   <div class="card bg-dark text-white border-light">
+                                       <div>
+                                           <p class="card-textnav text-center flex-column">ARMAS</p>
+                                           <ul>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=0">Gran Espada</a>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=2">Espadas Dobles</a>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=4">Martillo</a>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=6">Lanza</a>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=8">Hacha Espada</a>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=10">Glaive Insecto</a>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=12">Ballesta Pesada</a>
+                                           </ul>
+                                       </div>
+                                   </div>                                                                           
+                               </div>
+                               <div class="col">                                
+                                   <div class=" bg-dark text-white ">
+                                       <div class="card bg-dark text-white border-light">
+                                           <p class="card-textnav text-center flex-column border-light">ARMAS</p>
+                                           <ul>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=1">Espada y Escudo</a>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=3">Espada Larga<a>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=5">Cornamusa</a>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=7">Lanza Pistola</a>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=9">Hacha Cargada</a>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=11">Arco</a>
+                                           <a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons?type=13">Ballesta ligera</a>
+                                           </ul>
+                                       </div>
+                                   </div>                                    
+                               </div>
+                           </div>                                
+                       </div>
+                       <!-- Sección de ARMAS -->
+
+                       <!-- Sección de ARMADURAS -->
+                        <div class="container">
+                            <div class="row mb-4">                                   
+                                <div class="card bg-dark text-white border-light">
+                                    <div class="col">
+                                        <div class="">
+                                            <p href="" class="card-text">ARMADURA</p>
+                                            <a class=" text-white" href="https://mhworld.kiranico.com/es/armorseries?rarity=1">Rareza 1</a>
+                                            <a class=" text-white" href="https://mhworld.kiranico.com/es/armorseries?rarity=2">Rareza 2</a>
+                                            <a class=" text-white" href="https://mhworld.kiranico.com/es/armorseries?rarity=3">Rareza 3</a>
+                                            <a class=" text-white" href="https://mhworld.kiranico.com/es/armorseries?rarity=4">Rareza 4 <br></a>
+                                            <a class=" text-white" href="https://mhworld.kiranico.com/es/armorseries?rarity=5">Rareza 5</a>
+                                            <a class=" text-white" href="https://mhworld.kiranico.com/es/armorseries?rarity=6">Rareza 6</a>
+                                            <a class=" text-white" href="https://mhworld.kiranico.com/es/armorseries?rarity=7">Rareza 7</a>
+                                            <a class=" text-white" href="https://mhworld.kiranico.com/es/armorseries?rarity=8">Rareza 8 <br></a>
+                                            <a class=" text-white" href="https://mhworld.kiranico.com/es/armorseries?rarity=9">Rareza 9</a>
+                                            <a class=" text-white" href="https://mhworld.kiranico.com/es/armorseries?rarity=10">Rareza 10</a>
+                                            <a class=" text-white" href="https://mhworld.kiranico.com/es/armorseries?rarity=11">Rareza 11</a>
+                                            <a class=" text-white" href="https://mhworld.kiranico.com/es/armorseries?rarity=12">Rareza 12</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>  
+                   <!-- Sección de ARMADURAS -->                     
+                    </div>    
+                </div>
+            </main>
+        </div>
+    </div>
+</body>
+</html>
