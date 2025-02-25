@@ -1,9 +1,0 @@
-#clase body no manipular 
-body{
-    background-color: crimson;
-    text-align: center;
-    font-family: 'Gill Sans', sans-serif; 
-    animation-name: fondo;   
-    animation-duration: 6s;
-    animation-iteration-count: infinite;
-}
