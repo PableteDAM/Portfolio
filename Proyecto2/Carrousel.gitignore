@@ -1,0 +1,32 @@
+
+#Ignorar link de boostrap ya que esta pagina esta hecha solo con bootstrap5
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+#Ignorar menu ya que el menu estan todos los links necesarios y esencial para la página
+ <!-- Menú lateral -->
+            <div class="col-md-3 col-lg-2 bg-black p-3 min-vh-100">
+                <h4 class="text-white">KIRANICO / MH:WORLD</h4>
+                <ul class="nav flex-column">
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/monsters">Monstruos <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/quests">Misión <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/items">Objetos <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/weapons">Armas <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/armorseries">Armadura <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/skilltrees">Habilidades <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/decorations">Adornos <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/catseries">Equipo de camarada <img class="h-25 float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/melodies">Efectos de melodías <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"> </a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/kinsects">Informacion de kinsecto <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/catskills">Habilidades de menu <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/foods">Ingredientes <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/crafting">Lista de formulas <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/safari">Comitiva de buscatrufos <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/melder">Maxifusionador <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/provisions">Provisiones <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/specialtools">Herram.Especializadas <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/deliveries">Entregas <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/bounties">Submisiones <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                    <li><a class="nav-link text-white" href="https://mhworld.kiranico.com/es/pendants">Colgantes <img class="float-sm-end" src="https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ib_icon.png" width="16"></a></li>
+                </ul>
+            </div>
+            <!-- Menú lateral -->
