@@ -29,10 +29,4 @@ Nombre del Autor - Pablo Caballero
 
 Colaboradores - Alonso Scalone
 
-## Contacto
-
-📧 Correo: [Proyecto2@gmail.com] 
-
-🌍 Web: [www.MonsterHunterWiki.com]
-
 
