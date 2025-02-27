@@ -31,7 +31,8 @@ Colaboradores - Alonso Scalone
 
 ## Contacto
 
-📧 Correo: [Proyecto2@1ºDAM.com]
+📧 Correo: [Proyecto2@gmail.com] 
+
 🌍 Web: [www.MonsterHunterWiki.com]
 
 
