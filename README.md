@@ -3,36 +3,26 @@
 
 Somos Alonso Scalone y Pablo Caballero alumnos de primero DAM, nuestro profesor nos ha pedido hacer un proyecto de Github, en el que debemos añadir nuestro proyectos de clases
 
-Proyecto1
-## Proyecto1
-Un proyecto hecho en Java sobre la creación de un personaje.
+## nuestras Habilidades
+Somos alumnos de 1º de Desarrollo de Aplicaciones Multiplataforma, nuestro conocimientos son varios dentro de este apartado en cual nos lleva a tener conocimientos variados sobre HTML,CSS y JAVA.
+
+## Contenido del Portafolio📋
 
 
-# Proyecto2
-# Nombre del Proyecto
+El portafolio incluye los siguientes proyectos:
 
-Descripción breve del proyecto: ¿Cuál es su objetivo principal? ¿Qué problema resuelve?
+- Proyecto1: Una aplicación en Java que permite la creación de un personaje, solicitando al usuario información como nombre, raza, clase y distribución de puntos de habilidad.
 
-## Índice
+- Proyecto2: Una página web desarrollada con Bootstrap dedicada al videojuego "Monster Hunter". Esta página ofrece información sobre el juego, incluyendo detalles sobre las diferentes criaturas, armas y misiones.
 
-- [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+- Proyecto3: Hojas de estilo CSS diseñadas para una página web que presenta una corona creada durante las clases. Este proyecto se centra en la aplicación de estilos y animaciones para mejorar la presentación visual de la página.
 
-## Instalación
 
-Pasos para instalar y configurar el proyecto en un entorno local:
+## Contacto
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone https://github.com/PableteDAM/Portfolio.git
+📧 Email: [email@1ºDAM.com] 
 
-## Proyecto1
-Un proyecto hecho en Java sobre la creación de un personaje.
-## Proyecto2
-Una página web hecha con bootstrap sobre una videojuegue llamado "Monster Hunter".
-main
+🌍 Web: [www.Proyecto3.com]
 
-## Proyecto3
-Es el "css" de una página web de una corona hecha en clase.
- main
+![ClipWindowsGIF](https://github.com/user-attachments/assets/89a256fc-084a-4881-9a2e-0b188b64b9aa)
+
