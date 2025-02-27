@@ -88,7 +88,37 @@ public class Main {
 
 
 
-       
+        // HACER USO DE WHILE Y SWITCH PARA SELECCIÓN DE CLASE
+
+
+
+           switch (eleccion) {
+            case 1:
+                System.out.println("Has escogido Guerrero/a");
+                clase = "Guerrero/a";
+                break;
+            case 2:
+                System.out.println("Has escogido Mago/a");
+                clase = "Elfo/a";
+                break;
+            case 3:
+                System.out.println("Has escogido Ladrón/a");
+                clase = "Ladrón/a";
+                break;
+            case 4:
+                System.out.println("Has escogido Arquero/a");
+                clase = "Arquero/a";
+                break;
+        }
+
+        while (eleccion > 4 || eleccion < 1) {
+
+            System.out.print("Elección errónea, seleccione nuevamente la clase:");
+            eleccion = scanner.nextInt();
+        }
+
+
+        System.out.println("_______________________________________________________");
 
         // Solicitar estadísticas (fuerza, destreza, inteligencia)
 
@@ -217,6 +247,7 @@ public class Main {
 
         System.out.println("_______________________________________________________");
 
-    
+
     }
 }
+
