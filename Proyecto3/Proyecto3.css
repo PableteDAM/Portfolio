@@ -1,0 +1,51 @@
+body{
+    background-color: crimson;
+    text-align: center;
+    font-family: 'Gill Sans', sans-serif; 
+    animation-name: fondo;   
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+
+img {
+    width: 255px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.textogrande   {
+    font-size: 80px;
+    color: whitesmoke;
+    opacity: 40%;
+    height: 150px;
+    padding: 0px;
+}
+
+.textopequeño{
+    font-size: 40px;
+    color: whitesmoke;
+    opacity: 40%;
+    height: 0%;
+
+}
+
+@keyframes fondo {
+    16.6% {background-color: crimson;}
+    33.2% {background-color:  lightblue;}
+    49.8% {background-color: orange;}
+    66.4% {background-color: turquoise;}
+    83% {background-color: teal;}
+    100% {background-color: yellowgreen;}
+}
+
+div:hover p{ 
+    opacity: 100%
+}
+div{
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+    
+}
