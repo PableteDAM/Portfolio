@@ -1,37 +1,20 @@
-Proyecto: Animación de Fondo en CSS
-
-## Descripción
+## Monster Hunter - Guía Avanzada
 
 En esta página encontrarás una guía avanzada de Monster Hunter con toda la información que un cazador experto necesita. Desde builds optimizadas y análisis detallados de armas hasta estrategias efectivas para enfrentarte a cada monstruo del juego. Aprenderás sobre habilidades, mecánicas avanzadas, combos, y cómo aprovechar al máximo cada estilo de caza. También cubrimos eventos, misiones especiales y las mejores formas de farmear materiales raros. Con esta guía, estarás listo para cualquier desafío y podrás llevar tu caza al siguiente nivel.
 
-## Tecnologías Utilizadas
-
-HTML
-CSS
+## Contenido de la Guía🗡️ 
+- Builds y Equipamiento: Análisis de armas, armaduras y combinaciones efectivas.
+- Monstruos y Estrategias: Guías detalladas para derrotar a cada criatura.
+- Mecánicas Avanzadas: Consejos sobre habilidades, combos y movimientos especiales.
+- Eventos y Misiones Especiales: Información actualizada sobre los desafíos del juego.
+- Farm de Materiales: Mejores métodos para conseguir objetos raros y mejorar tu equipo.
 
 ## Estructura del Proyecto
+Boosttrap5.
 
-styles.css: Archivo de estilos con la animación y diseño visual.
+## Objetivo✅
 
-## Instalación y Uso
-
-Abre el archivo style.css en un navegador web.
-
-## Características
-
-- Fondo animado con colores cambiantes.
-- Textos con efectos de opacidad.
-- Uso de @keyframes para la animación.
-- Efecto de hover sobre los elementos div para cambiar la opacidad del texto.
-- Animación de Fondo
--La animación de fondo cambia entre los siguientes colores:
- Crimson
- Lightblue
- Orange
- Turquoise
- Teal
- Yellowgreen
- Contribución
+El propósito de esta guía es ayudar a los jugadores a perfeccionar su técnica, optimizar sus builds y enfrentar con éxito los desafíos más difíciles de Monster Hunter.
 
 ## Licencia
 - Este proyecto está bajo la licencia MIT.
@@ -42,6 +25,6 @@ Pablo Caballero
 
 ## Contacto
 
-📧 Email: email@1ºDAM.com 
-🌍 Web: www.Proyecto2.com
+📧 Email: [email@1ºDAM.com¨] 
+🌍 Web: [www.Proyecto2.com]
 
