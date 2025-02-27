@@ -4,13 +4,13 @@
 
 Este proyecto consiste en una página web con efectos de animación utilizando únicamente CSS. El propósito es crear una interfaz visualmente atractiva con cambios de color dinámicos y efectos de opacidad al interactuar con el contenido.
 
-## Tecnologías Utilizadas
+## Tecnologías Utilizadas🛠️
 
 HTML5 para la estructura del contenido.
 
 CSS3 para la animación y estilos.
 
-## Funcionalidades
+## Funcionalidades✅
 
 Fondo con animación de colores cíclica mediante @keyframes.
 
@@ -57,7 +57,7 @@ body{
 }
 Hemos añadido un Ignore para que la base de la pagina no pueda ser modificada
 
-## Mejoras Futuras
+## Mejoras Futuras🚀
 
 Añadir efectos de transición para el texto.
 
@@ -65,7 +65,7 @@ Incorporar elementos interactivos adicionales.
 
 Implementar versiones accesibles para diferentes tamaños de pantalla.
 
-## Licencia
+## Licencia📋
 - Este proyecto está bajo la licencia MIT.
 
 ## Autores
