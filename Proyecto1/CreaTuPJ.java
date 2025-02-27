@@ -247,6 +247,14 @@ public class Main {
 
         System.out.println("_______________________________________________________");
 
+        
+                // Mostrar personaje creado
+        System.out.println("Nombre elegido: " + nombre);
+        System.out.println("Raza elegida: " + raza);
+        System.out.println("Clase elegida: " + clase);
+        System.out.println("Fuerza: " + fuerza);
+        System.out.println("Destreza: " + destreza);
+        System.out.println("Inteligencia: " + inteligencia);
 
     }
 }
