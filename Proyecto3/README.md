@@ -72,7 +72,4 @@ Implementar versiones accesibles para diferentes tamaños de pantalla.
 Alonso Scalone 
 Pablo Caballero
 
-## Contacto
 
-📧 Email: [email@1ºDAM.com] 
-🌍 Web: [www.Proyecto3.com]
