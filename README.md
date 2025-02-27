@@ -8,7 +8,6 @@ Descripción breve del proyecto: ¿Cuál es su objetivo principal? ¿Qué proble
 
 ## Índice
 
-- [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
