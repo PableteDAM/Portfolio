@@ -76,8 +76,4 @@ Abre el archivo style.css en un navegador web.
 Alonso Scalone 
 Pablo Caballero
 
-## Contacto
-
-📧 Email: email@1ºDAM.com 
-🌍 Web: www.Proyecto1.com
 
