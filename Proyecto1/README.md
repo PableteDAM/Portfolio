@@ -12,7 +12,7 @@ Scanner para la entrada de datos por consola
 
 Control de flujo con if, while y switch
 
-## Funcionalidades
+## Funcionalidades🛠️
 
 1ºSelección del nombre del personaje.
 
@@ -26,7 +26,7 @@ Control de flujo con if, while y switch
 
 6ºMuestra del personaje creado con todos los atributos.
 
-## Estructura del Proyecto
+## Estructura del Proyecto🛠️
 
 styles.css: Archivo de estilos con la animación y diseño visual.
 
@@ -51,7 +51,7 @@ Ingresa los puntos de fuerza (0-100): 30
 Ingresa los puntos de Destreza (0-70): 40
 Ingresa los puntos de Inteligencia (0-30): 30
 
-## Mejoras Futuras
+## Mejoras Futuras🚀
 
 1ºImplementar interfaz gráfica.
 
@@ -69,7 +69,7 @@ Abre el archivo style.css en un navegador web.
 
 - Uso de Atributos
 
-## Licencia
+## Licencia📋
 - Este proyecto está bajo la licencia MIT.
 
 ## Autores
